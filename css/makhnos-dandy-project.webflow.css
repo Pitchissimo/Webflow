@@ -472,7 +472,7 @@ p {
 
 .service.container.det {
   margin-top: 50px;
-  color: #fff;
+  color: hsla(0, 0%, 100%, 0.65);
   font-size: 13px;
 }
 
@@ -833,7 +833,7 @@ p {
   margin-top: 10px;
   margin-bottom: 0px;
   font-family: 'Open Sans', sans-serif;
-  color: #fff;
+  color: #c9c9c9;
   text-align: center;
 }
 
@@ -843,7 +843,7 @@ p {
 
 .mail {
   font-family: 'Open Sans', sans-serif;
-  color: #fff;
+  color: #c9c9c9;
   font-size: 13px;
   text-align: left;
   text-decoration: none;
@@ -878,7 +878,6 @@ p {
   font-family: 'Sorts Mill Goudy', sans-serif;
   font-size: 15px;
   font-style: italic;
-  color: #fff;
 }
 
 .form.error {
